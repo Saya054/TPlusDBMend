@@ -2,7 +2,7 @@
 
 基于 qfluentwidgets 重构的T+系列产品数据库修复工具。
 
-##预览
+## 预览
 <img width="1196" height="798" alt="image" src="https://github.com/user-attachments/assets/67029509-1b88-4c84-8c32-936f508cd5ac" />
 
 ## 特性
@@ -101,3 +101,4 @@ datarepairV4/
 
 
 本项目基于原 T+数据库修复工具重构，保留原有核心功能的同时提供现代化的用户界面。
+
