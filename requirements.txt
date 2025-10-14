@@ -1,0 +1,4 @@
+PyQt5>=5.15.0
+PyQt-Fluent-Widgets-Pro>=0.8.3
+pymssql>=2.2.0
+configparser
